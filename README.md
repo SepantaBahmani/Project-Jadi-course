@@ -1,2 +1,4 @@
-Here put the team updates
-    and tests with names and times and bugs
+#Rules
+    Here put the team updates
+    write tests, debug tests and every kind of test with comment 
+    dont notify admins
